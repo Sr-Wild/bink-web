@@ -49,6 +49,12 @@ table {
 	border-spacing: 0;
 }
 
+body {
+  scroll-behavior: auto;
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+
 * {
   margin: 0;
   padding: 0;
